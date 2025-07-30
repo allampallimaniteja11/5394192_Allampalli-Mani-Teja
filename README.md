@@ -41,7 +41,17 @@ git branch feature-update
 git checkout feature-update
 
 git push -u origin feature-update
-<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/12e69c5e-31bf-4c0e-8185-51c08e33856b" />
-<img width="779" height="1022" alt="screenshot" src="https://github.com/user-attachments/assets/0ad594a0-0640-459d-9e75-63c3f8102f19" />
-![GIT](https://github.com/user-attachments/assets/d5bfea12-e1ea-4000-ab81-2dd930a57743)
+SDLC SCREENSHOT:
 ![SDLC](https://github.com/user-attachments/assets/a221d91e-de66-4428-b67f-f3e0aeb466a0)
+
+GIT SCREENSHOT:
+![GIT](https://github.com/user-attachments/assets/d5bfea12-e1ea-4000-ab81-2dd930a57743)
+
+CODE:
+
+<img width="779" height="1022" alt="screenshot" src="https://github.com/user-attachments/assets/0ad594a0-0640-459d-9e75-63c3f8102f19" />
+LINUX COMMANDS:
+
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/12e69c5e-31bf-4c0e-8185-51c08e33856b" />
+
+
