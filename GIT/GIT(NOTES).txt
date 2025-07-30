@@ -1,0 +1,67 @@
+In this StepIn Program, I have learned Git – a Distributed Version Control System (DVCS)
+📌 Key Topics I Covered:
+✅ 1. Introduction to Git and Version Control
+What is Version Control System (VCS), Centralized (CVCS), and Distributed (DVCS)
+
+Why Git is widely used in real-world projects
+
+✅ 2. Git Basics
+How to initialize a local repository using git init
+
+Cloning remote repositories using git clone
+
+Tracking changes using git status, git add, and git commit
+
+Viewing project history using git log
+
+✅ 3. GitHub Integration
+Linking local repo with remote repo using git remote add origin <url>
+
+Pushing code to GitHub using git push
+
+Pulling updates from GitHub using git pull
+
+Solving errors like fetch first, unrelated histories, and push rejected
+
+✅ 4. Branching and Merging
+Creating new branches (git branch branch-name)
+
+Switching between branches (git checkout)
+
+Merging branches (git merge)
+
+Resolving merge conflicts manually
+
+✅ 5. Repository Organization
+Creating folders (mkdir) and adding files (e.g., screenshots/images)
+
+Organizing content into meaningful folders: GIT, SDLC, and linux commands
+
+Adding images and tracking them with Git
+
+✅ 6. Commit Management
+Checking commit history
+
+Reverting to previous versions using commit hashes
+
+Understanding HEAD, working directory, staging area
+
+✅ 7. Error Handling & Cleanup
+Solving issues like:
+
+"fatal: not a git repository"
+
+"needs merge" or merge conflicts
+
+Folder vs file confusion in GitHub
+
+Removing or recreating folders correctly
+
+Using rm, mv, and renaming files safely
+
+✅ 8. Collaboration Readiness
+Creating and pushing new branches (git push --set-upstream)
+
+Setting upstream branches for tracking
+
+Writing commit messages clearly

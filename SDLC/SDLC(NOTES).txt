@@ -1,0 +1,55 @@
+In this StepIn Program, I have learned about SDLC and Agile models 
+📘 SDLC Basics
+Definition and purpose of SDLC
+
+Importance of a structured development process
+
+🔄 SDLC Phases
+Requirement Gathering
+
+Feasibility Study
+
+Design (High-level and Low-level)
+
+Development (Implementation)
+
+Testing
+
+Deployment
+
+Maintenance
+
+📐 SDLC Models
+Waterfall Model
+
+V-Model (Verification & Validation)
+
+Iterative Model
+
+Incremental Model
+
+Spiral Model
+
+Prototype Model
+
+RAD Model (Rapid Application Development)
+
+🧪 Testing Concepts
+Testing Levels: Unit, Integration, System, Acceptance
+
+Testing Types: Functional & Non-Functional
+
+Testing Techniques: Black-box, White-box, Grey-box
+
+STLC (Software Testing Life Cycle)
+
+Test Plan, Test Case, Test Suite, Test Scenario
+
+🚀 Agile Model
+Agile Principles and Values (from Agile Manifesto)
+
+Agile vs Iterative vs Waterfall
+
+Scrum basics (though not in depth)
+
+Incremental & Adaptive approach in Agile
