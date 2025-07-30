@@ -1,3 +1,4 @@
+
 # Step In
 
 This repository contains organized folders related to key software engineering topics:
@@ -53,5 +54,10 @@ CODE:
 LINUX COMMANDS:
 
 <img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/12e69c5e-31bf-4c0e-8185-51c08e33856b" />
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/5b9c87cc-d376-43f1-80ec-d62431f8dbf3" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/bde48c36-4bd4-49e4-b8a6-50be2b28700d" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/0a97a5ae-d1ce-4eb9-9d74-47552556bf27" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/f43a762c-a4c3-4619-87e7-c811ab378f77" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/aff9ac60-3400-42a5-aa5a-54d30016b899" /> 
 
 
